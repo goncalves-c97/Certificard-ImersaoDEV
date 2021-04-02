@@ -1,0 +1,83 @@
+div{
+  border: 3px solid #2aad26;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  background-color: rgb(238 243 248);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+header{
+  background-image: url("https://img.redbull.com/images/c_crop,w_1024,h_683,x_0,y_0,f_auto,q_auto/c_scale,w_1500/redbullcom/2020/7/8/xzlb8zjf9aghyiotbb1f/pac-man-screenshot");
+  border-radius: 10px;
+  background-size: cover;
+  background: zoom;
+  height: 120px;  
+}
+
+section{
+  font-family: 'Teko', sans-serif;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: 150px;
+ 
+  background-color: #2aad26;
+  border: 3px solid black;
+  border-radius: 10px;
+  padding: 15px;
+  width: 600px;
+  -webkit-box-shadow: 5px 5px 23px 5px #000000; 
+  box-shadow: 5px 5px 23px 5px #000000;  
+}
+
+body{
+  background-image: url("https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif");
+  background-color: rgb(251 162 0);
+}
+
+img{
+  border-radius: 100%;
+  border: 8px solid #2aad26;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  transform: translateY(-50%)
+}
+
+h1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 50px;
+  text-align:center;  
+  margin: 0;
+  color: white;
+}
+
+h2{
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+  color: white;
+}
+
+h3{
+  font-size: 40px;
+  text-align: center;
+  margin: 0;
+}
+
+ol{
+  font-size: 30px;
+  text-align: center;
+}
+
+li{
+  text-align: center;
+}
